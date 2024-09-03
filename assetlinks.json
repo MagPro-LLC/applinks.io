@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.magpro.myapplication",
+    "package_name": "com.magpro.me",
     "sha256_cert_fingerprints":
     ["31:75:1D:23:E7:82:CF:D6:9D:FA:37:BD:F9:85:41:8A:05:2D:E8:88:BD:65:48:E1:E2:FB:DB:0B:C8:72:DF:29"]
   }
